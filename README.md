@@ -14,5 +14,5 @@ A simple webpage built using **HTML & CSS Flexbox** to practice creating structu
 - CSS3
 - Flexbox
 
-Site live at https://priyanshjain08.github.io/Project-flexbox/
+ https://priyanshjain08.github.io/Project-flexbox/
 
